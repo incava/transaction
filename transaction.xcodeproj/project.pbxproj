@@ -16,6 +16,7 @@
 		581009352A23425A0036594A /* transactionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581009342A23425A0036594A /* transactionTests.swift */; };
 		5810093F2A23425A0036594A /* transactionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5810093E2A23425A0036594A /* transactionUITests.swift */; };
 		581009412A23425A0036594A /* transactionUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581009402A23425A0036594A /* transactionUITestsLaunchTests.swift */; };
+		581009522A2377CB0036594A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581009512A2377CB0036594A /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5810093A2A23425A0036594A /* transactionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = transactionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5810093E2A23425A0036594A /* transactionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transactionUITests.swift; sourceTree = "<group>"; };
 		581009402A23425A0036594A /* transactionUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transactionUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		581009512A2377CB0036594A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				581009262A23425A0036594A /* Assets.xcassets */,
 				581009282A23425A0036594A /* LaunchScreen.storyboard */,
 				5810092B2A23425A0036594A /* Info.plist */,
+				581009512A2377CB0036594A /* SecondViewController.swift */,
 			);
 			path = transaction;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				581009522A2377CB0036594A /* SecondViewController.swift in Sources */,
 				581009222A2342590036594A /* ViewController.swift in Sources */,
 				5810091E2A2342590036594A /* AppDelegate.swift in Sources */,
 				581009202A2342590036594A /* SceneDelegate.swift in Sources */,
